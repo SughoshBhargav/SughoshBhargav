@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SughoshBhargav](https://github.com/SughoshBhargav](https://github.com/SughoshBhargav?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/SughoshBhargav](https://github.com/SughoshBhargav?tab=repositories)
 
 - 📫 How to reach me **sughoshsv@gmail.com**
 
