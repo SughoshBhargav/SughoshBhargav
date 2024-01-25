@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sughosh S V</h1>
-<h3 align="center">Looking around the world....Curious Computer Science Engineering Student Seeking Exciting Opportunities to Learn and Advance</h3>
+<h3 align="center">Looking around the world.... Seeking Exciting Opportunities to Learn and Advance</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xucGg3dWg2NWo4NmVmdXlmazc1c2FpOHkwajdpdW9jdXZwYTJ6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
-- 🌱 I’m currently learning **Android Development**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/SughoshBhargav](https://github.com/SughoshBhargav?tab=repositories)
 
